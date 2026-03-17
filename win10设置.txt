@@ -1,0 +1,8 @@
+
+启动文件夹
+shell:Common Startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+以管理员模式启动PowerShell
+irm https://get.activated.win | iex
+
