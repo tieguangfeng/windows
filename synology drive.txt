@@ -1,2 +1,0 @@
-在注册表中搜索 Synology Drive
-将 System.IsPinnedToNameSpaceTree 的值从1改为0
